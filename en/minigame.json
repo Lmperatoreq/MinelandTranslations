@@ -27,5 +27,3 @@
   "minigame.team.white": "WHITE",
   "minigame.team.yellow": "YELLOW",
   "minigame.will_start_in": "§6$minigame §8| §fThe game will start in §a$seconds§f...",
-  "minigame.will_start_in_seconds": "§6$minigame §8| §fThe game will start in §a$seconds §fseconds"
-}
